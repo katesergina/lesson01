@@ -1,0 +1,15 @@
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/weenfry/Desktop/Examples/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
